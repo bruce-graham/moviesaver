@@ -1,0 +1,22 @@
+{
+  "name": "moviesaver",
+  "version": "1.0.0",
+  "description": "Save Movies you wish to watch later",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "git+https://github.com/bruce-graham/moviesaver.git"
+  },
+  "author": "Bruce Graham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bruce-graham/moviesaver/issues"
+  },
+  "homepage": "https://github.com/bruce-graham/moviesaver#readme",
+  "dependencies": {
+    "webpack": "^2.5.1",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
